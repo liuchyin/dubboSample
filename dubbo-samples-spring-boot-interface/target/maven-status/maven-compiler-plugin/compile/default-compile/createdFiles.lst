@@ -1,0 +1,3 @@
+org/apache/dubbo/springboot/demo/Person.class
+org/apache/dubbo/springboot/demo/DemoService.class
+org/apache/dubbo/springboot/demo/Greeting.class

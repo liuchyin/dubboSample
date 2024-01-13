@@ -1,0 +1,137 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Dubbo Samples Generic Call Consumer
+
+
+From: 'an unknown organization'
+  - spring-context-support (http://nexus.sonatype.org/oss-repository-hosting.html/spring-context-support) com.alibaba.spring:spring-context-support:jar:1.0.5
+
+  - Gson (https://github.com/google/gson/gson) com.google.code.gson:gson:jar:2.9.1
+    License: Apache-2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Guava: Google Core Libraries for Java (https://github.com/google/guava/guava) com.google.guava:guava:bundle:20.0
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Netty/All-in-One (https://netty.io/netty-all/) io.netty:netty-all:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - JLine (http://jline.sourceforge.net) jline:jline:jar:0.9.94
+    License: BSD  (LICENSE.txt)
+  - zookeeper  org.apache.zookeeper:zookeeper:pom:3.4.13
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - SnakeYAML (https://bitbucket.org/snakeyaml/snakeyaml) org.yaml:snakeyaml:bundle:1.30
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'Apache Software Foundation' (http://www.apache.org)
+  - Apache Log4j (http://logging.apache.org/log4j/1.2/) log4j:log4j:bundle:1.2.16
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'QOS.ch' (http://www.qos.ch)
+  - SLF4J API Module (http://www.slf4j.org) org.slf4j:slf4j-api:jar:1.7.36
+    License: MIT License  (http://www.opensource.org/licenses/mit-license.php)
+
+From: 'Shigeru Chiba, www.javassist.org'
+  - Javassist (http://www.javassist.org/) org.javassist:javassist:bundle:3.20.0-GA
+    License: MPL 1.1  (http://www.mozilla.org/MPL/MPL-1.1.html)    License: LGPL 2.1  (http://www.gnu.org/licenses/lgpl-2.1.html)    License: Apache License 2.0  (http://www.apache.org/licenses/)
+
+From: 'Spring IO' (https://spring.io/projects/spring-framework)
+  - Spring AOP (https://github.com/spring-projects/spring-framework) org.springframework:spring-aop:jar:5.3.25
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Spring Beans (https://github.com/spring-projects/spring-framework) org.springframework:spring-beans:jar:5.3.25
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Spring Context (https://github.com/spring-projects/spring-framework) org.springframework:spring-context:jar:5.3.25
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Spring Core (https://github.com/spring-projects/spring-framework) org.springframework:spring-core:jar:5.3.25
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Spring Expression Language (SpEL) (https://github.com/spring-projects/spring-framework) org.springframework:spring-expression:jar:5.3.25
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Spring Commons Logging Bridge (https://github.com/spring-projects/spring-framework) org.springframework:spring-jcl:jar:5.3.25
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Curator Client (http://curator.apache.org/curator-client) org.apache.curator:curator-client:bundle:4.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Curator Framework (http://curator.apache.org/curator-framework) org.apache.curator:curator-framework:bundle:4.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Curator Recipes (http://curator.apache.org/curator-recipes) org.apache.curator:curator-recipes:bundle:4.0.1
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - dubbo-all (https://github.com/apache/dubbo/dubbo) org.apache.dubbo:dubbo:jar:2.7.5
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0)
+  - Apache Yetus - Audience Annotations (https://yetus.apache.org/audience-annotations) org.apache.yetus:audience-annotations:jar:0.5.0
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Apache Software Foundation' (https://www.apache.org/)
+  - dubbo-dependencies-zookeeper (https://www.apache.org/dubbo-dependencies-zookeeper/) org.apache.dubbo:dubbo-dependencies-zookeeper:pom:2.7.5
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0.txt)
+
+From: 'The Netty Project' (https://netty.io/)
+  - Netty/Buffer (https://netty.io/netty-buffer/) io.netty:netty-buffer:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec (https://netty.io/netty-codec/) io.netty:netty-codec:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/DNS (https://netty.io/netty-codec-dns/) io.netty:netty-codec-dns:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/HAProxy (https://netty.io/netty-codec-haproxy/) io.netty:netty-codec-haproxy:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/HTTP (https://netty.io/netty-codec-http/) io.netty:netty-codec-http:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/HTTP2 (https://netty.io/netty-codec-http2/) io.netty:netty-codec-http2:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/Memcache (https://netty.io/netty-codec-memcache/) io.netty:netty-codec-memcache:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/MQTT (https://netty.io/netty-codec-mqtt/) io.netty:netty-codec-mqtt:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/Redis (https://netty.io/netty-codec-redis/) io.netty:netty-codec-redis:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/SMTP (https://netty.io/netty-codec-smtp/) io.netty:netty-codec-smtp:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/Socks (https://netty.io/netty-codec-socks/) io.netty:netty-codec-socks:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/Stomp (https://netty.io/netty-codec-stomp/) io.netty:netty-codec-stomp:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Codec/XML (https://netty.io/netty-codec-xml/) io.netty:netty-codec-xml:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Common (https://netty.io/netty-common/) io.netty:netty-common:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Handler (https://netty.io/netty-handler/) io.netty:netty-handler:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Handler/Proxy (https://netty.io/netty-handler-proxy/) io.netty:netty-handler-proxy:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Handler/Ssl/Ocsp (https://netty.io/netty-handler-ssl-ocsp/) io.netty:netty-handler-ssl-ocsp:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Resolver (https://netty.io/netty-resolver/) io.netty:netty-resolver:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Resolver/DNS (https://netty.io/netty-resolver-dns/) io.netty:netty-resolver-dns:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Resolver/DNS/Classes/MacOS (https://netty.io/netty-resolver-dns-classes-macos/) io.netty:netty-resolver-dns-classes-macos:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Resolver/DNS/Native/MacOS (https://netty.io/netty-resolver-dns-native-macos/) io.netty:netty-resolver-dns-native-macos:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Resolver/DNS/Native/MacOS (https://netty.io/netty-resolver-dns-native-macos/) io.netty:netty-resolver-dns-native-macos:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport (https://netty.io/netty-transport/) io.netty:netty-transport:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/Classes/Epoll (https://netty.io/netty-transport-classes-epoll/) io.netty:netty-transport-classes-epoll:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/Classes/KQueue (https://netty.io/netty-transport-classes-kqueue/) io.netty:netty-transport-classes-kqueue:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/Native/Epoll (https://netty.io/netty-transport-native-epoll/) io.netty:netty-transport-native-epoll:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/Native/Epoll (https://netty.io/netty-transport-native-epoll/) io.netty:netty-transport-native-epoll:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/Native/KQueue (https://netty.io/netty-transport-native-kqueue/) io.netty:netty-transport-native-kqueue:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/Native/KQueue (https://netty.io/netty-transport-native-kqueue/) io.netty:netty-transport-native-kqueue:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/Native/Unix/Common (https://netty.io/netty-transport-native-unix-common/) io.netty:netty-transport-native-unix-common:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/RXTX (https://netty.io/netty-transport-rxtx/) io.netty:netty-transport-rxtx:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/SCTP (https://netty.io/netty-transport-sctp/) io.netty:netty-transport-sctp:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+  - Netty/Transport/UDT (https://netty.io/netty-transport-udt/) io.netty:netty-transport-udt:jar:4.1.87.Final
+    License: Apache License, Version 2.0  (https://www.apache.org/licenses/LICENSE-2.0)
+
+
+
+
